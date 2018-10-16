@@ -1,4 +1,4 @@
-# Gene_analysis
+# Gene expression analysis
 This project consists of the application of  (1) classifier design, (2) error estimation
 and (3) feature selection techniques to a gene expression dataset. The data is provided in 
 the Training_Data.txt and Testing_Data.txt files. 
