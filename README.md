@@ -12,5 +12,5 @@ The first column in the datasets contain the patient ID and the last column cont
 The first row contains the gene sysbol names. The testing data set is used for test-set error estimation. 
 
  Searched for classifiers and gene-feature sets that best discriminate the two prognosis classes on the training data, and use
- the testing data to determine their accuracy. The classifiers were designed based on the four classification rules LDA, Linear SVM, Non-linear SVM with Gaussian kernel and neural network
+ the testing data to determine their accuracy. The classifiers were designed based on four classification rules LDA, Linear SVM, Non-linear SVM with Gaussian kernel and neural network
 with 5 neurons and one hidden layer.  
