@@ -1,6 +1,6 @@
 # Gene expression analysis
-This project consists of the application of  (1) classifier design, (2) error estimation
-and (3) feature selection techniques to a gene expression dataset. The data is provided in 
+This project describes the applications of  (1) classifier design, (2) error estimation
+and (3) feature selection techniques to model a gene expression dataset . The data is provided in 
 the Training_Data.txt and Testing_Data.txt files. 
 This project analyzes gene expression in breast tumor biopsies from 295 patients. The dataset contains 70 genes
 that predict the outcome of the disease. The outcome of the disease depends on the two classes- 'the good prognosis'
