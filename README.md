@@ -9,7 +9,7 @@ the bad prognonsis group developed distant secondary malignant growths within th
 These genes were obtained through feature selection. 
 
 The first column in the datasets contain the patient ID and the last column contain the label (1= good prognosis and 0=bad prognosis)
-The first row contains the gene sysbol names. The testing data set is used for test-set error estimation. 
+The first row contains the gene symbol names. The testing data set is used for test-set error estimation. 
 
  Searched for classifiers and gene-feature sets that best discriminate the two prognosis classes on the training data, and use
  the testing data to determine their accuracy. The classifiers were designed based on four classification rules LDA, Linear SVM, Non-linear SVM with Gaussian kernel and neural network
